@@ -3,6 +3,7 @@
     flex-direction: column;
     background-color: lightblue;
     border-radius: 12px;
+    margin-top: 1em;
 }
 h2{
     text-align: center;
@@ -16,10 +17,12 @@ form{
 }
 
 label{
-    margin: 0.5vm 1em;
+    margin: .5em 1em;
     width: 90%;
     display: flex;
     justify-content: space-between;
+    font-size: 1.2em;
+    text-align: center;
 }
 
 input{
